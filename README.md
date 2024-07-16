@@ -1,6 +1,4 @@
 # wheelbase-db
-source information for the wheelbase application
-
 This repository contains the source configuration files used to define manufacturers, brands, models, and other information which
 may update more frequently than the **[wheelbase]** application itself.
 
